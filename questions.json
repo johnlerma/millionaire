@@ -1,0 +1,416 @@
+{
+    "games": [
+        {
+            "questions": [
+                {
+                    "question": "Adenine always pairs with:",
+                    "content": [
+            "thymine",
+            "cytosine",
+            "guanine",
+            "ribose"
+          ],
+                    "correct": 0
+        },
+                {
+                    "question": "What is the process when DNA makes a copy of itself?",
+                    "content": [
+            "synthesis",
+            "replication",
+            "transcription",
+            "translation"
+          ],
+                    "correct": 1
+        },
+                {
+                    "question": "The sugar found in DNA is:",
+                    "content": [
+            "dextrose",
+            "ribose",
+            "deoxyribose",
+            "glucose"
+          ],
+                    "correct": 2
+        },
+                {
+                    "question": "Three nucleotides produce:",
+                    "content": [
+            "3 amino acids",
+            "1 amino acid",
+            "mRNA",
+            "1 protein"
+          ],
+                    "correct": 1
+        },
+                {
+                    "question": "What is the process when DNA is converted to mRNA is:",
+                    "content": [
+            "synthesis",
+            "replication",
+            "transcription",
+            "translation"
+          ],
+                    "correct": 2
+        },
+                {
+                    "correct": 3,
+                    "content": [
+            "synthesis",
+            "replication",
+            "transcription",
+            "translation"
+          ],
+                    "question": "What is the process when mRNA is converted to protein?"
+        },
+                {
+                    "correct": 3,
+                    "content": [
+            "the infrared light kills bacteria in the body",
+            "resistance power increases",
+            "the pigment cells in the skin get stimulated and produce a healthy tan",
+            "the ultraviolet rays convert skin oil into Vitamin D"
+          ],
+                    "question": "Exposure to sunlight helps a person improve his health because"
+        },
+                {
+                    "correct": 3,
+                    "content": [
+            "11",
+            "42",
+            "13",
+            "23"
+          ],
+                    "question": "What are the pairs of chromosomes in humans?"
+        },
+                {
+                    "correct": 2,
+                    "content": [
+            "protein",
+            "cell",
+            "genetic materials",
+            "organ"
+          ],
+                    "question": "What does PCR detect?"
+        },
+                {
+                    "correct": 3,
+                    "content": [
+            "cell membrane",
+            "cytoplasm",
+            "nucleus",
+            "all of above"
+          ],
+                    "question": "What are the main component of cells?"
+        },
+                {
+                    "correct": 3,
+                    "content": [
+            "DNA analysis tool",
+            "RNA analysis tool",
+            "can use for gene expression",
+            "all of above"
+          ],
+                    "question": "What is real-time PCR?"
+        },
+                {
+                    "correct": 0,
+                    "content": [
+            "Watson and Crick",
+            "Robert Hooke",
+            "Linus Pauling",
+            "Max von Laue"
+          ],
+                    "question": "Who discovered DNA double helix?"
+        },
+                {
+                    "correct": 3,
+                    "content": [
+            "actin",
+            "GAPDH",
+            "ubiquitin",
+            "EGFR"
+          ],
+                    "question": "Which is not a housekeeping gene?"
+        },
+                {
+                    "correct": 0,
+                    "content": [
+            "cell apoptosis",
+            "transcription",
+            "RNA processing",
+            "translocation"
+          ],
+                    "question": "Which are not part of the gene expression mechanism?"
+        },
+                {
+                    "correct": 2,
+                    "content": [
+            "4",
+            "5",
+            "7",
+            "6"
+          ],
+                    "question": "How many stages are included in the cell cycle?"
+        }
+      ]
+    },
+        {
+            "questions": [
+                {
+                    "question": "DNA is composed of 4 nucleotides often abbreviated as the following 4 letters:",
+                    "content": [
+            "A, G, C, T",
+            "A, B, C, D",
+            "A, G, C, U",
+            "A, R, C, T"
+          ],
+                    "correct": 0
+        },
+                {
+                    "question": "The primary technology enabled by the new Biomark X instrument is:",
+                    "content": [
+            "DNA sequencing",
+            "real-time PCR",
+            "cloning",
+            "western blotting"
+          ],
+                    "correct": 1
+        },
+                {
+                    "question": "Who was awarded the Nobel Prize for his invention of the polymerase chain reaction (PCR) method?",
+                    "content": [
+            "Kary Mullis",
+            "James Watson",
+            "Anthony Fauci",
+            "Francis Crick"
+          ],
+                    "correct": 0
+        },
+                {
+                    "question": "Using the Biomark X researchers can generate tons of data in their gene expression or genotyping experiments. In fact, up to __________ datapoints can be generated per instrument run.",
+                    "content": [
+            "6,129",
+            "2,169",
+            "9,216",
+            "5,000"
+          ],
+                    "correct": 2
+        },
+                {
+                    "question": "DNA is often referred as the blueprint of life. What is an example of an organism where the blueprint is RNA, not DNA?",
+                    "content": [
+            "retroviruses",
+            "silkworms",
+            "E. coli",
+            "Joshua trees"
+          ],
+                    "correct": 0
+        },
+                {
+                    "correct": 1,
+                    "content": [
+            "International Finance Corporation",
+            "integrated fluidic circuit",
+            "Independent Films Consortium",
+            "Integrated Friendship Club"
+          ],
+                    "question": "Biomark X utilizes microfluidics to miniaturize reactions and thereby reduce costs. The microfluidic device inserted into Biomark X is called an IFC. What does IFC stand for?"
+        },
+                {
+                    "correct": 0,
+                    "content": [
+            "an explanation of the flow of genetic information within a biological system",
+            "All molecular biology experiments will fail sometimes.",
+            "Without DNA, nothing else is possible.",
+            "Life on another planet is not possible without DNA."
+          ],
+                    "question": "What is the central dogma of molecular biology?"
+        },
+                {
+                    "correct": 0,
+                    "content": [
+            "South San Francisco",
+            "North San Francisco",
+            "Paris, France",
+            "Paris, Texas"
+          ],
+                    "question": "Fluidigm corporate headquarters is in which city?"
+        },
+                {
+                    "correct": 2,
+                    "content": [
+            "6.2 GB",
+            "2.3 GB",
+            "3.3 GB",
+            "1.0 GB"
+          ],
+                    "question": "Approximately how big (how many base pairs) is the haploid human genome?"
+        },
+                {
+                    "correct": 0,
+                    "content": [
+            "84",
+            "8.4",
+            "200",
+            "as much as a bread box"
+          ],
+                    "question": "Biomark X is a small benchtop instrument requiring a minimum amount of lab space. In fact, the instrument only weighs about __________ pounds."
+        },
+                {
+                    "correct": 1,
+                    "content": [
+            "2,916",
+            "9,216",
+            "219",
+            "365"
+          ],
+                    "question": "How many datapoints can be generated by Biomark X in a single 3.5-hour run?"
+        },
+                {
+                    "correct": 3,
+                    "content": [
+            "a new microfluidic instrument from Fluidigm ",
+            "an instrument that is powerful and intuitive",
+            "an instrument that is integrated and transformative",
+            "all of the above"
+          ],
+                    "question": "What is Biomark X?"
+        },
+                {
+                    "correct": 2,
+                    "content": [
+            "the new chicken entrée from KFC",
+            "a way to obtain clear data images",
+            "a gene editing process designed by Jennifer Doudna and Emmanuelle Charpentier",
+            "an adjective describing something higher in resolution than crisp images"
+          ],
+                    "question": "What is CRISPR?"
+        },
+                {
+                    "correct": 3,
+                    "content": [
+            "microfluidic chip",
+            "microfluidic cartridge",
+            "internal fluidic carousel",
+            "integrated Fluidic Circuit"
+          ],
+                    "question": "What does IFC stand for?"
+        },
+                {
+                    "correct": 1,
+                    "content": [
+            "picking up your dry cleaning so you can focus on what matters",
+            "Custom Services and Scientific Consultation",
+            "your dissertation and poster abstract",
+            "everything above but laboratory optimization"
+          ],
+                    "question": "Fluidigm PRO Services can help you with:"
+        }
+      ]
+    },
+        {
+            "questions": [
+                {
+                    "question": "What technique did Watson and Crick use to visualize DNA?",
+                    "content": [
+            "microscopy",
+            "X-ray crystallography",
+            "their eyeshite",
+            "mass spectrometry"
+          ],
+                    "correct": 1
+        },
+                {
+                    "question": "What is the most abundant element in DNA?",
+                    "content": [
+            "carbon",
+            "oxygen",
+            "hydrogen",
+            "hydrogen"
+          ],
+                    "correct": 0
+        },
+                {
+                    "question": " What are the most abundant elements in a cell?",
+                    "content": [
+            "C, H, S, P",
+            "C, O, N, P",
+            "C, H, O, N",
+            "C, H, Mg, Ca"
+          ],
+                    "correct": 2
+        },
+                {
+                    "question": "Who created the foundation for Fluidigm IFCs?",
+                    "content": [
+            "Stephen Quake",
+            "Chris Linthwaite",
+            "Francis Collins",
+            "Scott Tanner"
+          ],
+                    "correct": 0
+        },
+                {
+                    "question": "How many chromosome pairs do humans have?",
+                    "content": [
+            "16",
+            "46",
+            "23",
+            "8"
+          ],
+                    "correct": 2
+        },
+                {
+                    "correct": 1,
+                    "content": [
+            "dogs",
+            "pea plants",
+            "ferns",
+            "his family"
+          ],
+                    "question": "What is Gregor Mendel famous for testing his theories on?"
+        },
+                {
+                    "correct": 2,
+                    "content": [
+            "11",
+            "15",
+            "7",
+            "21"
+          ],
+                    "question": "Which chromosome houses the cystic fibrosis gene, which when mutated causes the disease?"
+        },
+                {
+                    "correct": 3,
+                    "content": [
+            "pedigree diagram",
+            "28 and you",
+            "genetic counselor",
+            "Punnett square"
+          ],
+                    "question": "What do geneticists use to predict genotypes from a particular cross?"
+        },
+                {
+                    "correct": 0,
+                    "content": [
+            "Walter Sutton",
+            "James Watson",
+            "Barbara McClintock",
+            "John Steinbeck"
+          ],
+                    "question": "Who provided the first conclusive evidence, in 1902, that chromosomes carry the units of inheritance and occur in distinct pairs?"
+        },
+                {
+                    "correct": 3,
+                    "content": [
+            "a simple type of font with distinct high and low points",
+            "the genetic makeup of an organism",
+            "a group of SNPs from an individual that can represent a signature for a phenotypic trait",
+            "a happy kangaroo "
+          ],
+                    "question": "What is a haplotype?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+    "games": [
+        {
+            "questions": [
+                {
+                    "question": "Adenine always pairs with:",
+                    "content": [
+		                "thymine",
+		                "cytosine",
+		                "guanine",
+		                "ribose"
+		            ],
+                    "correct": 0
+		        },
+                {
+                    "question": "What is the process when DNA makes a copy of itself?",
+                    "content": [
+		                "synthesis",
+		                "replication",
+		                "transcription",
+		                "translation"
+		            ],
+                    "correct": 1
+		        },
+                {
+                    "question": "The sugar found in DNA is:",
+                    "content": [
+		                "dextrose",
+		                "ribose",
+		                "deoxyribose",
+		                "glucose"
+		            ],
+                    "correct": 2
+		        },
+                {
+                    "question": "Three nucleotides produce:",
+                    "content": [
+		                "3 amino acids",
+		                "1 amino acid",
+		                "mRNA",
+		                "1 protein"
+		            ],
+                    "correct": 1
+		        },
+                {
+                    "question": "What is the process when DNA is converted to mRNA is:",
+                    "content": [
+		                "synthesis",
+		                "replication",
+		                "transcription",
+		                "translation"
+		            ],
+                    "correct": 2
+		        },
+                {
+                    "correct": 3,
+                    "content": [
+				        "synthesis",
+				        "replication",
+				        "transcription",
+				        "translation"
+				    ],
+                    "question": "What is the process when mRNA is converted to protein?"
+				},
+                {
+                    "correct": 3,
+                    "content": [
+				        "the infrared light kills bacteria in the body",
+				        "resistance power increases",
+				        "the pigment cells in the skin get stimulated and produce a healthy tan",
+				        "the ultraviolet rays convert skin oil into Vitamin D"
+				    ],
+                    "question": "Exposure to sunlight helps a person improve his health because"
+				},
+                {
+                    "correct": 3,
+                    "content": [
+				        "11",
+				        "42",
+				        "13",
+				        "23"
+				    ],
+                    "question": "What are the pairs of chromosomes in humans?"
+				},
+                {
+                    "correct": 2,
+                    "content": [
+				        "protein",
+				        "cell",
+				        "genetic materials",
+				        "organ"
+				    ],
+                    "question": "What does PCR detect?"
+				},
+                {
+                    "correct": 3,
+                    "content": [
+				        "cell membrane",
+				        "cytoplasm",
+				        "nucleus",
+				        "all of above"
+				    ],
+                    "question": "What are the main component of cells?"
+				},
+                {
+                    "correct": 3,
+                    "content": [
+				        "DNA analysis tool",
+				        "RNA analysis tool",
+				        "can use for gene expression",
+				        "all of above"
+				    ],
+                    "question": "What is real-time PCR?"
+				},
+                {
+                    "correct": 0,
+                    "content": [
+				        "Watson and Crick",
+				        "Robert Hooke",
+				        "Linus Pauling",
+				        "Max von Laue"
+				    ],
+                    "question": "Who discovered DNA double helix?"
+				},
+                {
+                    "correct": 3,
+                    "content": [
+				        "actin",
+				        "GAPDH",
+				        "ubiquitin",
+				        "EGFR"
+				    ],
+                    "question": "Which is not a housekeeping gene?"
+				},
+                {
+                    "correct": 0,
+                    "content": [
+				        "cell apoptosis",
+				        "transcription",
+				        "RNA processing",
+				        "translocation"
+				    ],
+                    "question": "Which are not part of the gene expression mechanism?"
+				},
+                {
+                    "correct": 2,
+                    "content": [
+				        "4",
+				        "5",
+				        "7",
+				        "6"
+				    ],
+                    "question": "How many stages are included in the cell cycle?"
+				}
+		    ]
+		}
+
+
+	]
+}
